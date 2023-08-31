@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on my own projects<br>🌐 I’m looking to collaborate with other developers<br>🤝 I’m looking for help with AI development<br>📊 I’m currently learning AI development<br>💬 Ask me about web design - usuability<br>🎶 Love music
+💻 I’m currently working on my own projects<br>🌐 I’m looking to collaborate with other developers<br>🤝 I’m looking for help with AI development<br>📊 I’m currently learning Back-End development<br>💬 Love meeting new people<br>🎶 Love music
 
 
 ## 🌐 Socials:
