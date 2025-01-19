@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">💻 I’m currently working on a Social Media Platform "Ecotivista"</p>
-
-###
-
-<p align="left">🤝 I’m looking for help with AI development</p>
-
-###
-
-<p align="left">📊 I am currently learning data science and robotics.</p>
+<p align="left">💻 I’m currently working on a Social Media Platform "Ecotivista" <br> 🤝 I’m looking for help with AI development <br> 📊 I am currently learning data science and robotics.</p>
 
 ###
 
@@ -151,8 +143,8 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/tynip/tynip/output/snake.svg" alt="Snake animation" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tynip&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-###
+
