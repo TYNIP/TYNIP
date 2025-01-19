@@ -2,7 +2,7 @@
 
 ###
 
-💻 I’m currently working on a Social Media Platform "Ecotivista"<br>🤝 I’m looking for help with AI development<br>📊 I am currently learning data science and robotics.<br>🎶 Love making music [A.C.M.M ](https://acmmofficial.com) <br>
+💻 I’m currently working on a Social Media Platform "[Ecotivista](https://ecotivista.org)"<br>🤝 I’m looking for help with AI development<br>📊 I am currently learning data science and robotics.<br>🎶 Love making music [A.C.M.M ](https://acmmofficial.com) <br>
 
 ###
 
@@ -133,7 +133,7 @@
   <a href="https://www.youtube.com/@acmm_official" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="instagram.com/A.C.M.M_" target="_blank">
+  <a href="https://www.instagram.com/A.C.M.M_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://linkedin.com/in/art-moram" target="_blank">
