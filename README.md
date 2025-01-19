@@ -2,7 +2,7 @@
 
 ###
 
-💻 I’m currently working on a Social Media Platform "[Ecotivista](https://ecotivista.org)"<br>🤝 I’m looking for help with AI development<br>📊 I am currently learning data science and robotics.<br>🎶 Love making music [A.C.M.M ](https://acmmofficial.com) <br>
+💻 I’m currently working on a Social Media Platform "[Ecotivista](https://www.ecotivista.org/)"<br>🤝 I’m looking for help with AI development<br>📊 I am currently learning data science and robotics.<br>🎶 Love making music [A.C.M.M ](https://acmmofficial.com) <br>
 
 ###
 
